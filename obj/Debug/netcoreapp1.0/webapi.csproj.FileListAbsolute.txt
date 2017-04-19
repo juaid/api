@@ -1,0 +1,8 @@
+/Users/null/Desktop/SamepleDotNetCore/webapi/bin/Debug/netcoreapp1.0/webapi.deps.json
+/Users/null/Desktop/SamepleDotNetCore/webapi/bin/Debug/netcoreapp1.0/webapi.runtimeconfig.json
+/Users/null/Desktop/SamepleDotNetCore/webapi/bin/Debug/netcoreapp1.0/webapi.runtimeconfig.dev.json
+/Users/null/Desktop/SamepleDotNetCore/webapi/bin/Debug/netcoreapp1.0/webapi.dll
+/Users/null/Desktop/SamepleDotNetCore/webapi/bin/Debug/netcoreapp1.0/webapi.pdb
+/Users/null/Desktop/SamepleDotNetCore/webapi/obj/Debug/netcoreapp1.0/webapi.AssemblyInfo.cs
+/Users/null/Desktop/SamepleDotNetCore/webapi/obj/Debug/netcoreapp1.0/webapi.dll
+/Users/null/Desktop/SamepleDotNetCore/webapi/obj/Debug/netcoreapp1.0/webapi.pdb
